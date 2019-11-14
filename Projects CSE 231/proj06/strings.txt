@@ -1,0 +1,6 @@
+"Unable to open file."
+"Gene length computation for C. elegans.\n"
+"\nChromosome Length"
+"Error in chromosome.  Please try again."
+"Input a file name: "
+"\nEnter chromosome or 'all' or 'quit': "
